@@ -10,3 +10,4 @@ Place them in your Klipper configs directory. Usually located at ~/home/pi/print
 
 Alternatively, you can open up Mainsail, navigate to Machine, and upload these files there, or copy the raw data into new files. Just make sure you back stuff up before proceeding. 
 
+EDIT: Recently, I have replaced the Microswiss extruder with a Bondtech BMG extruder that I bought for an abandoned project. 
